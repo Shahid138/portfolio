@@ -1,0 +1,40 @@
+.tech-card {
+	margin: 1rem;
+	padding: 0.2rem;
+	border-radius: 0.3rem;
+	background-color: var(--card-bg);
+	width: 18rem;
+	user-select: none;
+	overflow: auto;
+}
+
+.tech-list-container {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0.3rem;
+}
+
+.tech-list {
+	/* border: 1px solid red; */
+	height: 2.3rem;
+	width: fit-content;
+	font-size: 0.8rem;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	height: 100%;
+}
+
+.tech-list>span{
+	border-radius: .2rem;
+	padding: 0.3rem;
+	background-color: var(--card-bg-secondary);
+	margin: 0.2rem;
+	color: var(--text-primary);
+}
+
+@media screen and (max-width: 848px){
+	.tech-card{
+		width: 100%;
+	}
+}
