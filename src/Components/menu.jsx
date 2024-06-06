@@ -42,7 +42,7 @@ const Menu = ({ menuToggle }) => {
         </li>
         <li className="menu-item">
           <a
-            href="/Portfolio/docs/Mayank_Resume.pdf"
+            href="/Portfolio-main/docs/Shahid_Resume.pdf"
             target="_blank"
             rel="noreferrer"
             draggable="false"
