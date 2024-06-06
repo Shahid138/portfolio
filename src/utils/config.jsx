@@ -20,13 +20,6 @@ export const projectList = [
 		projectDesc: "React.js, Redux, Jest Food Delivery App",
 		projectLink: "https://shahid138.github.io/NomNomFoods/",
 	},
-	{
-		id: 1005,
-		projectImg: "./Images/Site_5.png",
-		projectName: "ScriptQuiz",
-		projectDesc: "React.js, FirebaseAuth, *Currently working on it*",
-		projectLink: "https://mayank--dev.me/ScriptQuiz",
-	},
 	
 ];
 
