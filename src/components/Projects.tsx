@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { motion, useInView, useAnimation } from 'framer-motion';
-import { ExternalLink, Github, Code2, Terminal } from 'lucide-react';
+import { ExternalLink, Github, Terminal } from 'lucide-react';
 import { projects } from '../data/portfolio';
 import { Project } from '../types';
 
