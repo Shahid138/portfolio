@@ -1,12 +1,12 @@
 import { Project, SkillCategory, About } from '../types';
 
 export const portfolioData: About = {
-  name: "John Doe",
+  name: "Shahid",
   title: "Full-Stack Developer",
   bio: "I build accessible, pixel-perfect, performant, and engaging digital experiences for the web.",
-  email: "john@example.com",
-  github: "https://github.com/example",
-  linkedin: "https://linkedin.com/in/example",
+  email: "shahidsaifi138@gmail.com",
+  github: "https://github.com/Shahid138",
+  linkedin: "https://www.linkedin.com/in/shahid-saifi/",
   twitter: "https://twitter.com/example",
 };
 

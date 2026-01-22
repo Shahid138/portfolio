@@ -89,7 +89,7 @@ const Contact: React.FC = () => {
                   className={`w-full px-4 py-3 border-2 font-mono rounded-none transition-all outline-none ${
                     isFocused === 'name' ? 'border-black' : 'border-gray-300'
                   }`}
-                  placeholder="John Doe"
+                  placeholder="Shahid Saifi"
                 />
               </div>
 
